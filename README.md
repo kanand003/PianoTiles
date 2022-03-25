@@ -1,5 +1,7 @@
 # PianoTiles
 
+This is a prototype level developed in a single day.
+
 <div align="center">
       <a href="https://youtu.be/BQSqMRKUm-s">
      <img 
